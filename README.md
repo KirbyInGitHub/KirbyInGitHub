@@ -1,13 +1,22 @@
+# Kirby · Zhang Peng
 
-### 💬 How to reach me:  
-- 📫 [Email](996@itdog.icu)
-- 👀 [Blog](https://itdog.icu) 
+CTO at [@HiQ-AI](https://github.com/HiQ-AI) · Shanghai
 
-###  📌Github Status 
+Ten years leading engineering. Still at the keyboard.
 
-![统计信息](https://github-readme-stats.vercel.app/api?username=KirbyInGitHub&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fa9191)
+## Now
 
-<!---
-KirbyInGitHub/KirbyInGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building **[HiQ Cortex](https://github.com/HiQ-AI/cortex-desktop)** —
+an AI-native desktop workbench for LCA practitioners.
+
+Part of the [HiQ](https://www.hiq.earth) ecosystem:
+[HiQLCD](https://www.hiq.earth) (China's first process-level LCI database)
+and HiQ Editor (LCI authoring platform).
+
+## Before
+
+Head of Engineering at [LightInTheBox](https://www.lightinthebox.com) (NYSE: LITB), 2016–2023.
+
+## Elsewhere
+
+[itdog.icu](https://itdog.icu) · `996@itdog.icu`
