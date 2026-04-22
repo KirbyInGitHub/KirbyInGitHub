@@ -19,4 +19,4 @@ Head of Engineering at [LightInTheBox](https://www.lightinthebox.com) (NYSE: LIT
 
 ## Elsewhere
 
-[itdog.icu](https://itdog.icu) · `996@itdog.icu`
+`996@itdog.icu`
